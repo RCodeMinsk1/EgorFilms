@@ -160,7 +160,7 @@ header{
 }
 .GS{
     width: 100%;
-    margin-left: 40%;
+    margin-left: 20%;
 }
 .G>p{
     text-decoration: underline;
@@ -173,6 +173,17 @@ header{
 }
 .S>p:hover{
     color: deeppink;
+}
+.Categ{
+    border-right-style: solid;
+    border-right-width: 10%;
+    border-right-color: white;
+    width: 120%;
+}
+.G{
+    border-bottom-style: solid;
+    border-bottom-width: 10%;
+    border-bottom-color: white;
 }
 .Categ>p{
     text-decoration: underline;
